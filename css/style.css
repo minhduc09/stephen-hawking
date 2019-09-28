@@ -1,0 +1,31 @@
+body{
+  color:#777 
+}
+.heading{
+  margin:30px;
+}
+.container{
+  background-color:#eee;
+  margin-top:50px;
+  margin-bottom:50px;
+  padding:10px;
+}
+.image{
+  background-color:#fff;
+  margin:auto;
+  padding-bottom:10px;
+  margin-bottom:20px;
+}
+img{
+  width:100%;
+  padding:15px 0px 15px 0px;
+}
+.info{
+  margin:auto;
+}
+a:hover{
+  text-decoration: none;
+}
+.blockquote{
+  margin:40px;
+}
